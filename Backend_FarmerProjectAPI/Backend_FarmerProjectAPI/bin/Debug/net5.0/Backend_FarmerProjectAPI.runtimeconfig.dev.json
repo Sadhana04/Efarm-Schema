@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Shalinee\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Shalinee\\.nuget\\packages"
+    ]
+  }
+}
